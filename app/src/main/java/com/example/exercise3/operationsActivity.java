@@ -20,7 +20,6 @@ public class operationsActivity extends AppCompatActivity {
     private Button initials;
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
